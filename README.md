@@ -7,28 +7,16 @@ This repository contains the complete source code of Charaniya Development, a pr
 
 Charaniya Development provides a wide range of professional services, including:
 
-Web Development (PHP, MySQL, HTML, CSS, JavaScript)
+1 Web Development (PHP, MySQL, HTML, CSS, JavaScript)
 
-Digital Marketing Solutions
+2 Digital Marketing Solutions
 
-Search Engine Optimization (SEO) & Google Analytics
+3 Search Engine Optimization (SEO) & Google Analytics
 
-Graphic Design & Creative Branding
+4 Graphic Design & Creative Branding
 
-Social Media Management
+5 Social Media Management
 
-Email Marketing & Automation
+6 Email Marketing & Automation
 
-Full-Stack Website Development Services
-
-Purpose of This Repository
-
-This GitHub repository serves as:
-
-A backup of the live website
-
-A reference source for all code files
-
-A development and version-tracking space for future updates
-
-For complete details and services, visit the live website.
+7 Full-Stack Website Development Services
