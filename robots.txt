@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charaniya-development.page.gd/sitemap.xml
